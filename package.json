@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "VajraUptime",
   "private": true,
   "scripts": {
     "build": "turbo run build",
